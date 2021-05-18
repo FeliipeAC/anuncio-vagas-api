@@ -1,0 +1,12 @@
+{
+  "name": "anuncio-vagas-api",
+  "version": "1.0.0",
+  "description": "Simple json database to deploy to the application anuncio-vagas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Felipe Andrade",
+  "license": "ISC"
+}
